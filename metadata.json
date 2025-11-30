@@ -1,0 +1,5 @@
+{
+  "name": "Fertility Trends Visualizer",
+  "description": "Interactive visualization of completed fertility rates by age and year.",
+  "requestFramePermissions": []
+}
